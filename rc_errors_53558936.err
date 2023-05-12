@@ -1,0 +1,72 @@
+/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/cg/alpha_shapes.py:38: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @jit
+/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/cg/alpha_shapes.py:38: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @jit
+/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/cg/alpha_shapes.py:164: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @jit
+/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/cg/alpha_shapes.py:198: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @jit
+/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/cg/alpha_shapes.py:260: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @jit
+/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/cg/alpha_shapes.py:164: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @jit
+/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/cg/alpha_shapes.py:198: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @jit
+/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/cg/alpha_shapes.py:260: NumbaDeprecationWarning: The 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.
+  @jit
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 148, in _get_module_details
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/tile2net/__init__.py", line 15, in <module>
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 148, in _get_module_details
+  File "<frozen runpy>", line 112, in _get_module_details
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/tile2net/__init__.py", line 15, in <module>
+    from tile2net.raster.pednet import PedNet
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/tile2net/raster/pednet.py", line 10, in <module>
+    from tile2net.raster.pednet import PedNet
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/tile2net/raster/pednet.py", line 10, in <module>
+    from tile2net.raster.tile_utils.topology import *
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/tile2net/raster/tile_utils/topology.py", line 4, in <module>
+    from tile2net.raster.tile_utils.topology import *
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/tile2net/raster/tile_utils/topology.py", line 4, in <module>
+    import momepy
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/momepy/__init__.py", line 7, in <module>
+    import momepy
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/momepy/__init__.py", line 7, in <module>
+    from .distribution import *
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/momepy/distribution.py", line 14, in <module>
+    from .distribution import *
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/momepy/distribution.py", line 14, in <module>
+    from .utils import _azimuth
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/momepy/utils.py", line 7, in <module>
+    from .utils import _azimuth
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/momepy/utils.py", line 7, in <module>
+    import libpysal
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/__init__.py", line 26, in <module>
+    import libpysal
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/__init__.py", line 26, in <module>
+    from . import examples
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/examples/__init__.py", line 18, in <module>
+    from . import examples
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/examples/__init__.py", line 18, in <module>
+    available_datasets.update(remote_datasets.datasets)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/examples/remotes.py", line 107, in datasets
+    available_datasets.update(remote_datasets.datasets)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/examples/remotes.py", line 107, in datasets
+    self._datasets = poll_remotes()
+                     ^^^^^^^^^^^^^^
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/examples/remotes.py", line 28, in poll_remotes
+    self._datasets = poll_remotes()
+                     ^^^^^^^^^^^^^^
+  File "/n/home04/cvoulgaris/.conda/envs/ped_net/lib/python3.11/site-packages/libpysal/examples/remotes.py", line 28, in poll_remotes
+    rows = samples.find_all("tr")
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'find_all'
+    rows = samples.find_all("tr")
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'find_all'
